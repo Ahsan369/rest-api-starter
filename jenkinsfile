@@ -1,7 +1,6 @@
-[16:18] Mercer, Paul
     pipeline{​​
 environment {​​
-registry = "username/restapp"
+registry = "ahsan369/restapp"
         registryCredentials = "dockerhub_id"
         dockerImage = ""
     }​​
