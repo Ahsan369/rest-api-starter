@@ -1,4 +1,4 @@
-    pipeline{​​
+pipeline{​​
 environment {​​
 registry = "ahsan369/restapp"
         registryCredentials = "dockerhub_id"
@@ -25,3 +25,5 @@ registry = "ahsan369/restapp"
             }​​
             }​​
         }​​​​
+    }
+    
